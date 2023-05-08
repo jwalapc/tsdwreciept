@@ -253,7 +253,7 @@ body {
   left: calc(50% - 293.5px);
 }
 .disclaimer-the {
-  position: relative;
+  position: absolute;
   top: 851px;
   left: 420px;
   font-size: 14px;
